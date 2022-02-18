@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/Week4-J2EE-Lab/Week4J2EEWebService?wsdl" uri="src/conf/xml-resources/web-service-references/Week4J2EEWebService/wsdl/localhost_8080/Week4-J2EE-Lab/Week4J2EEWebService.wsdl"/>
+    <system systemId="http://localhost:8080/Week4-J2EE-Lab/Week4J2EEWebService?xsd=1" uri="src/conf/xml-resources/web-service-references/Week4J2EEWebService/wsdl/localhost_8080/Week4-J2EE-Lab/Week4J2EEWebService.xsd_1.xsd"/>
+</catalog>
